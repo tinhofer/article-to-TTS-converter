@@ -1,0 +1,2 @@
+[console_scripts]
+article2tts = article2tts.cli:main
